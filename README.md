@@ -559,3 +559,5 @@ find . -name \*.profraw -type f -exec rm -f {} +
 ```
 
 Open `index.html` from the `./target/debug/coverage/` folder to review coverage data.
+https://github.com/availproject/avail-light
+curl -sL1 http://avail.sh | bash
